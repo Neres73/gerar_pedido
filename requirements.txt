@@ -1,0 +1,10 @@
+playwright>=1.40
+openpyxl>=3.1
+pyxlsb>=1.0
+python-dotenv>=1.0
+# Opcionais
+pynput>=1.7        # teclas de pausa / parada segura
+pypdf>=4.0         # ler o PDF da DANFE direto
+pillow>=10.0       # OCR de nota escaneada ou foto
+pypdfium2>=4.0     # OCR de PDF escaneado
+# OCR do Windows: winsdk (Python até 3.12) ou os pacotes winrt-* (3.13+)

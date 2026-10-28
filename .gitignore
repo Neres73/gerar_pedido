@@ -1,0 +1,18 @@
+# Configuração local e dados do ambiente — nunca versionar
+.env
+perfis.json
+perfil_edge/
+
+# Planilhas, notas e relatórios
+*.xlsx
+*.xlsb
+*.xml
+*.pdf
+Geração_pedidos_coupa/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/

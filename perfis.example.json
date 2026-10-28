@@ -1,0 +1,16 @@
+{
+  "Exemplo": {
+    "justificativa": "Compra de peças para manutenção",
+    "tipo_requisicao": "01 - Padrão",
+    "categoria": ["CATEGORIA NÍVEL 1", "CATEGORIA NÍVEL 2"],
+    "unidade_negocio": "UNIDADE DE NEGÓCIO",
+    "motivo": "MOTIVO DA COMPRA",
+    "endereco": "0000",
+    "conta_tipo": "A",
+    "conta_busca": "Ativo",
+    "conta_valor": "coluna G",
+    "campo_tr": "coluna H",
+    "permitir_plu_repetido": true,
+    "verificar_plu_planilha": false
+  }
+}
